@@ -1,0 +1,12 @@
+[package]
+name = "learn_rust"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+  name = "variables"
+  path ="src/variables/main.rs"
+
+[[bin]]
+  name = "learn_functions"
+  path ="src/learn_functions/main.rs"
